@@ -22,13 +22,12 @@ The following features can be implemented in the future:
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/7ac56da408b04dd9a9f5dfeefcae376c">
+    <a href="https://www.loom.com/share/e33eeac267614106ad809313c89585e4">
     </a>
-    <a href="https://www.loom.com/share/7ac56da408b04dd9a9f5dfeefcae376c">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7ac56da408b04dd9a9f5dfeefcae376c-with-play.gif">
+    <a href="https://www.loom.com/share/e33eeac267614106ad809313c89585e4">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e33eeac267614106ad809313c89585e4-with-play.gif">
     </a>
   </div>
-
 ## Notes
 
 App will stop functioning after the time limited token has expired

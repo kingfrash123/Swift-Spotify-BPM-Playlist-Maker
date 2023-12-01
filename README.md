@@ -9,7 +9,7 @@ Time spent: **24** hours spent in total
 
 The following features are implemented:
 - [x] The user can search songs like a normal spotify search
-- [x] The user can adjust How similar the playlist will be to the search
+- [x] The user can adjust how similar the playlist will be to the search
 - [x] The user can name the playlist
 - [x] The app handles Spotify's OAuth 2.0 Authentication
 

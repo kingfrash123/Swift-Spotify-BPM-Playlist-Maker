@@ -1,6 +1,6 @@
 # Fianl Project - *Spotify BPM Playlist Maker*
 
-Submitted by: **King Primo**
+ By: **King Primo**
 
 **Spotify BPM Playlist Maker** is an app that creats a new playlist based on a similar BPM of a searched song from your liked songs
 

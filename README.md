@@ -1,25 +1,21 @@
-# Fianl Project - *Spotify BPM Playlist Maker*
+#  Swift Spotify BPM Playlist Maker
 
- By: **King Primo**
+IOS apllication built with swift to create spotify playlist based on beats per minute
 
-**Spotify BPM Playlist Maker** is an app that creats a new playlist based on a similar BPM of a searched song from your liked songs
+## Table of Contents
+- [Features](#features)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contact](#contact)
 
-Time spent: **24** hours spent in total	
- 
+## Features
+- Allows users to track spending habits and manage custom budget categories.
+- The user can search songs like a normal spotify search
+- The user can adjust how similar the playlist will be to the search
+- The user can name the playlist
+- The app handles Spotify's OAuth 2.0 Authentication
 
-The following features are implemented:
-- [x] The user can search songs like a normal spotify search
-- [x] The user can adjust how similar the playlist will be to the search
-- [x] The user can name the playlist
-- [x] The app handles Spotify's OAuth 2.0 Authentication
-
-The following features can be implemented in the future:
-- [ ] The user can chooses what playlist they want to create from using the UI that displays their playlists
-- [ ] Change the OAuth method to save tokens that last much longer
-- [ ] View the generated playlist before or after creation
-- [ ] Add different features like a playlist sorter.
-
-## Video Walkthrough
+## Usage
 
 <div>
     <a href="https://www.loom.com/share/e33eeac267614106ad809313c89585e4">
@@ -28,9 +24,9 @@ The following features can be implemented in the future:
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e33eeac267614106ad809313c89585e4-with-play.gif">
     </a>
   </div>
-## Notes
 
-App will stop functioning after the time limited token has expired
+## Technologies Used
+- Swift
 
 ## License
 
@@ -47,3 +43,12 @@ App will stop functioning after the time limited token has expired
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+    
+## Contact
+
+For any inquiries, reach out to:
+- **King Primo**  
+- Email: kingprimo8@gmail.com 
+- LinkedIn: [King Primo](https://linkedin.com/in/king-primo)  
+- GitHub: [kingfrash123](https://github.com/kingfrash123)
+
